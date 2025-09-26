@@ -32,4 +32,4 @@ This project was developed to strengthen my JavaScript knowldege.
 - Array methods (`map`, `filter`, `reduce`, `forEach`) for transaction logic  
 - Working with dates, timers, and formatting  
 - Code organization and modular thinking  
-- Building real-world-like features using only vanilla JavaScript  
+- Building real-world-like features using JavaScript  
