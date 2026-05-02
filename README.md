@@ -6,12 +6,12 @@ The Bankist App is a simple banking application built with HTML, CSS, and JavaSc
 
  Features
 
-- 💸 Transfer Money – Send funds from one account to another
-- 💳 Request Loan – Borrow money
-- 🗑  Close Account – Securely remove an account from the system
-- 📊 Transaction History – Displays daily transactions with details
-- 📥 Money In/Out Summary – Tracks total deposits and withdrawals
-- 🏦 Interest Calculation – Calculates interest based on deposits
+-  Transfer Money – Send funds from one account to another
+-  Request Loan – Borrow money
+-  Close Account – Securely remove an account from the system
+-  Transaction History – Displays daily transactions with details
+-  Money In/Out Summary – Tracks total deposits and withdrawals
+-  Interest Calculation – Calculates interest based on deposits
 
 ---
 
