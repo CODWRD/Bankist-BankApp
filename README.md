@@ -1,10 +1,10 @@
-# 🏦 Bankist App
+ Bankist App
 
 The Bankist App is a simple banking application built with HTML, CSS, and JavaScript. It simulates core banking operations and provides an interactive interface for users to manage their accounts.
 
 ---
 
-## ✨ Features
+ Features
 
 - 💸 Transfer Money – Send funds from one account to another
 - 💳 Request Loan – Borrow money
@@ -15,7 +15,7 @@ The Bankist App is a simple banking application built with HTML, CSS, and JavaSc
 
 ---
 
-## 🛠 Tech Stack
+ Tech Stack
 
 - HTML – Structure
 - CSS – Styling & layout
@@ -23,7 +23,7 @@ The Bankist App is a simple banking application built with HTML, CSS, and JavaSc
 
 ---
 
-## 🎯 Learning Goals  
+ Learning Goals  
 
 This project was developed to strengthen my JavaScript knowldege.
 
